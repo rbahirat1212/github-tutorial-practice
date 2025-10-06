@@ -1,1 +1,2 @@
 Learning Git is fun!
+Git helps manage versions effectively.
